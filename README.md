@@ -1,2 +1,3 @@
 # ui-common
-basie html, css, javascript template
+basic html, css, javascript template
+or UI components.
